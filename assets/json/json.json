@@ -1,0 +1,170 @@
+[
+    {
+        "id": "1",
+        "name": "iPhone 12 Pro Max I Chính hãng VN/A",
+        "urlImage": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-pro-max_1__7.jpg",
+        "price": "30590000",
+        "department": "phone",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "2",
+        "name": "iPhone 11 I Chính hãng VN/A",
+        "urlImage": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/l/a/layer_20.jpg",
+        "price": "16200000",
+        "department": "phone",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "3",
+        "name": "Apple iPhone XR 64GB I Chính hãng VN/A",
+        "urlImage": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/image/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-xr-64-gb-chinh-hang-vn_3_.jpg",
+        "price": "11900000",
+        "department": "phone",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "4",
+        "name": "iPhone SE 2020 I Chính hãng VN/A",
+        "urlImage": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-se-2020_1__6.jpg",
+        "price": "10490000",
+        "department": "phone",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "5",
+        "name": "Apple iPhone 8 Plus 128GB I Chính hãng VN/A",
+        "urlImage": "https://cdn.cellphones.com.vn/media/catalog/product/cache/7/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone_8_plus_1.jpg",
+        "price": "13900000",
+        "department": "phone",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "6",
+        "name": "Đời Ngắn Đừng Ngủ Dài",
+        "urlImage": "https://sachvui.com/cover/2018/doi-ngan-dung-ngu-dai.jpg",
+        "price": "241000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "7",
+        "name": "Lối Sống Tối Giản Của Người Nhật",
+        "urlImage": "https://sachvui.com/cover/2018/loi-song-toi-gian-cua-nguoi-nhat.jpg",
+        "price": "205000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "8",
+        "name": "Cùng Con Trưởng Thành",
+        "urlImage": "https://sachvui.com/cover/2019/cung-con-truong-thanh.jpg",
+        "price": "119000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "9",
+        "name": "Dám Bị Ghét",
+        "urlImage": "https://sachvui.com/cover/2018/dam-bi-ghet.jpg",
+        "price": "123000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "10",
+        "name": "Nghệ Thuật Đàm Phán",
+        "urlImage": "https://sachvui.com/cover/2019/nghe-thuat-dam-phan.jpg",
+        "price": "374000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "11",
+        "name": "Đánh Thức Năng Lực Vô Hạn",
+        "urlImage": "https://sachvui.com/cover/2019/danh-thuc-nang-luc-vo-han.jpg",
+        "price": "247000",
+        "department": "book",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "12",
+        "name": "MSI GF63 Thin 9SCXR-075VN",
+        "urlImage": "https://kimlongcenter.com/upload/product/gf63_2_6.jpg",
+        "price": "16990000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "13",
+        "name": "MSI GF63 Thin 10SCXR-014VN",
+        "urlImage": "https://kimlongcenter.com/upload/product/gf63_2_7.jpg",
+        "price": "20490000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "14",
+        "name": "MSI Modern 14 B10RASW-202VN",
+        "urlImage": "https://kimlongcenter.com/upload/product/sdjfsdhfhfkhsdkjfhsdjkfasfdjh.jpg",
+        "price": "22690000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "15",
+        "name": "ASUS VivoBook A415EA-EB359T",
+        "urlImage": "https://kimlongcenter.com/upload/product/klsdbklvhjds-l.png",
+        "price": "12590000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "16",
+        "name": "Asus Vivobook Flip TP412FA-EC600T",
+        "urlImage": "https://kimlongcenter.com/upload/product/637076214103966498_asus-vivobook-tp412-bacxanh-1.jpg",
+        "price": "16990000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "17",
+        "name": "ASUS TUF Gaming FX505DT-HN478T",
+        "urlImage": "https://kimlongcenter.com/upload/product/fx505_1-768x768.jpg",
+        "price": "18490000",
+        "department": "computer",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "18",
+        "name": "JORDAN 1 MID CARBON FIBER ALL-STAR",
+        "urlImage": "https://product.hstatic.net/1000383440/product/0adeb883-b47d-411b-88f6-7c89cc6dc392_f5f66b3c2a934470a24317b7c6d46426_master.jpg",
+        "price": "6790000",
+        "department": "shoes",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "19",
+        "name": "MLB MULE MONO BLACK",
+        "urlImage": "https://product.hstatic.net/1000383440/product/3c6880dc-af74-4eb9-a9e7-3a7a14ea29f7_d4be29545b4b4f04afebd88487eacd87_master.jpg",
+        "price": "1590000",
+        "department": "shoes",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "20",
+        "name": "NIKE AIRFORCE 1 TYPE BLUE",
+        "urlImage": "https://product.hstatic.net/1000383440/product/355405ca-823b-4c14-8fc0-f953ac180356_5d83c0909e8c41938648d85d040de02d_master.jpg",
+        "price": "2980000",
+        "department": "shoes",
+        "description": "Thông tin sản phẩm"
+    },
+    {
+        "id": "21",
+        "name": "ULTRA BOOST 1.0 DNA COOKIE CREAM",
+        "urlImage": "https://product.hstatic.net/1000383440/product/4b11b638-5eba-4038-90ff-b66d59878fbc_3e0d8059b4c5496a9adeb28d144de0f6_master.jpg",
+        "price": "3190000",
+        "department": "shoes",
+        "description": "Thông tin sản phẩm"
+    }
+]

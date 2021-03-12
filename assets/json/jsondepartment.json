@@ -1,0 +1,19 @@
+[
+    {
+        "id": "phone",
+        "name": "Phones",
+        "urlImage":""
+    },
+    {
+        "id": "book",
+        "name": "Books"
+    },
+    {
+        "id": "computer",
+        "name": "Computers"
+    },
+    {
+        "id": "shoes",
+        "name": "Shoes"
+    }
+]
