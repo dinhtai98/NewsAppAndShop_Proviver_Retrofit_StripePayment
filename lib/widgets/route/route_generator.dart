@@ -6,6 +6,7 @@ import 'package:flutter_demo/screens/main_screen.dart';
 import 'package:flutter_demo/screens/news_detail.dart';
 import 'package:flutter_demo/screens/shop/cart_shop.dart';
 import 'package:flutter_demo/screens/shop/description_products.dart';
+import 'package:flutter_demo/screens/shop/list_order.dart';
 import 'package:flutter_demo/screens/shop/qr_scanner.dart';
 import 'package:flutter_demo/screens/source_detail.dart';
 import 'package:flutter_demo/widgets/custom_page_route.dart';
@@ -42,10 +43,17 @@ class RouteGenerator {
       case CartShop.routeName:
         return BouncyPageRoute(widget: CartShop());
       case OrderDetails.routeName:
-        return BouncyPageRoute(widget: OrderDetails());
+        return BouncyPageRoute(
+            widget: OrderDetails(
+          arguments: settings.arguments,
+        ));
+      case ListOrder.routeName:
+        return BouncyPageRoute(widget: ListOrder());
       case DescriptionProduct.routeName:
         return MaterialPageRoute(
-          builder: (_) => DescriptionProduct(arguments: settings.arguments,),
+          builder: (_) => DescriptionProduct(
+            arguments: settings.arguments,
+          ),
           settings: settings,
         );
         return _errorRoute();

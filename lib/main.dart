@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_demo/provider/bottom_navbar_provider.dart';
+import 'package:flutter_demo/provider/bottom_navbar_provider.dart'; 
 import 'package:flutter_demo/provider/input_search_provider.dart';
 import 'package:flutter_demo/provider/provider_shop/cart_products_provider.dart';
 import 'package:flutter_demo/provider/provider_shop/department_provider.dart';
@@ -15,7 +15,6 @@ import 'dart:async';
 
 Future<void> main() async {
   _enablePlatformOverrideForDesktop();
-
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 

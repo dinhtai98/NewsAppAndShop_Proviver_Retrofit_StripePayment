@@ -6,6 +6,7 @@ import 'package:flutter_demo/models/products/department_product.dart';
 import 'package:flutter_demo/models/products/product.dart';
 import 'package:flutter_demo/provider/provider_shop/department_provider.dart';
 import 'package:flutter_demo/screens/shop/description_products.dart';
+import 'package:flutter_demo/screens/shop/list_order.dart';
 import 'package:flutter_demo/screens/shop/order_details.dart';
 import 'package:flutter_demo/style/theme.dart' as Style;
 import 'package:flutter_demo/screens/shop/cart_shop.dart';
@@ -104,7 +105,7 @@ class _SourceScreenState extends State<SourceScreen> {
                 // Navigator.push(context,
                 //     CupertinoPageRoute(builder: (context) => QRViewScanner()));
                 Navigator.of(context).pushNamed(
-                  OrderDetails.routeName,
+                  ListOrder.routeName,
                 );
               },
             ),

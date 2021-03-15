@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 class BottomNavBarProvider with ChangeNotifier {
   // NavBarItem defaultItem = NavBarItem.HOME;
-  int _selectedIndex = 1;
+  int _selectedIndex = 0;
   getSelected() => _selectedIndex;
 
   void onItemTapped(int index) {
